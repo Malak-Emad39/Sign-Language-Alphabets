@@ -1,6 +1,4 @@
 # Sign-Language-Alphabets
-<img width="1280" height="603" alt="preprosess" src="https://github.com/user-attachments/assets/1a10b54d-a56e-41c8-b280-78bc397d7089" />
-
 
 ## Overview
 This project focuses on image preprocessing techniques used in Computer Vision and Machine Learning tasks.  
